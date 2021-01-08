@@ -15,11 +15,9 @@
 
 
 ---
-(1) 참조 링크  
+(1) 참고 자료 링크  
 
-[깃허브 주소]
-
-[github]: https://github.com/gyoogle
+* 참고한 깃허브 주소https://github.com/gyoogle
 
 
 
