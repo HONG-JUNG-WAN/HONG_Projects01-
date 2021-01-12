@@ -11,6 +11,7 @@
 
 2.  client와 server 사이에서 IP/Port 연결을 통해 원활한 소켓 통신 구현
 
+        TCP 통신방식 사용
 ---
 
 3.  소켓 통신시, 객체 단위 전달을 위한 직렬화(serializable)구현
